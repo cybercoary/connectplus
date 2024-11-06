@@ -1,5 +1,5 @@
 {
-  "Version":"1",
+  "Version":"2",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
@@ -17,10 +17,10 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"cybercoari.app.br", 
+         "ServerIP":"apps.cybercoari.com.br", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
+         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php"
       }
  
   ],
