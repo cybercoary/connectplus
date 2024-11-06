@@ -1,5 +1,5 @@
 {
-  "Version":"3",
+  "Version":"4",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
@@ -17,7 +17,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"apps.cybercoari.com.br", 
+         "ServerIP":"[rotate=appscybercoari.app.br;d16zljb8cqaetp.cloudfront.net]", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php"
@@ -75,8 +75,8 @@
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Info":"Proxy",
          "Name":"CLARO",
-         "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"172.233.17.8",
+         "Payload":"GET / HTTP/1.1[crlf]Host: minhaclaro.claro.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+         "ProxyIP":"dev-minhaclaro.claro.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
