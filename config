@@ -4,14 +4,14 @@
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
   "UpdateApk": "https://github.com/cybercoary/pnetplus/releases/download/v1.0.4/PnetPlus-LN-1.0.4.apk",
-  "Contato":"https://t.me/pudim",
+  "Contato":"https://t.me/cybercoari",
   "Site":"https://www.speedtest.net",
   "Servers": [
        {
          "Color": "#ffffff",
          "ColorDescription": "#000000",
          "ColorName": "#000000",
-         "Description": "AI QUE TUDO",
+         "Description": "Conectando vc ao mundo",
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Name":"BR 1",
          "USER":"",
@@ -33,8 +33,8 @@
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: cybercoari.app.br[crlf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
+         "ProxyIP":"timofertas.com#apf.maisvantagenstim.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
