@@ -12,7 +12,7 @@
   'ImgPass': "https://telegra.ph/file/0aae4b5cc75034f04611d.png",
   "ColorOne": "#7A333333",
   "ColorTwo": "#7A333333",
-  "ColorStarter": "#7A333333",
+  "ColorStarter": "#0033FF",
   "ColorDialogs": "#84ffffff",
   "ColorButtons": "#333333"
 }
