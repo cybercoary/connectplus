@@ -30,7 +30,7 @@
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
          "Description": "Payload 01",
-         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
+         "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
          "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
