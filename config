@@ -1,9 +1,9 @@
 {
-  "Version":"6",
+  "Version":"7",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
-  "UpdateApk": "https://github.com/cybercoary/pnetplus/releases/download/v1.0.4/PnetPlus-LN-1.0.4.apk",
+  "UpdateApk": "",
   "Contato":"https://t.me/cybercoari",
   "Site":"https://www.speedtest.net",
   "Servers": [
@@ -17,7 +17,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"[rotate=appscybercoari.app.br;d16zljb8cqaetp.cloudfront.net]", 
+         "ServerIP":"[rotate=apps.cybercoari.com.br;d16zljb8cqaetp.cloudfront.net]", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php"
@@ -29,7 +29,7 @@
          "Color": "#0000ff",
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
-         "Description": "Payload 01",
+         "Description": "Flare",
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
@@ -57,7 +57,7 @@
          "Color": "#ff0000",
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
-         "Description": "planos naum sei quais",
+         "Description": "Proxy",
          "FLAG":"https://cybercoari.com.br/imagens/claro.png",
          "Info":"Proxy",
          "Name":"CLARO",
