@@ -80,7 +80,7 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
-      }
+      },
       {
          "Color": "#ff0000",
          "ColorDescription": "#ffffff",
