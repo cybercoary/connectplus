@@ -1,5 +1,5 @@
 {
-  "Version":"21",
+  "Version":"22",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
@@ -133,6 +133,20 @@
          "Name":"CLARO 2",
          "Payload":"GET / HTTP/1.1[crlf]Host: minhaclaro.claro.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: d16zljb8cqaetp.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
          "ProxyIP":"dev-minhaclaro.claro.com.br",
+         "ProxyPort":"80",
+         "SNI":"",
+         "TlsIP":""
+      },
+      {
+         "Color": "#ff0000",
+         "ColorDescription": "#ffffff",
+         "ColorName": "#ffffff",
+         "Description": "Proxy",
+         "FLAG":"https://cybercoari.com.br/imagens/claro.png",
+         "Info":"Proxy",
+         "Name":"CLARO 3",
+         "Payload":"GET / HTTP/1.1[crlf]Host: minhaclaro.claro.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: d16zljb8cqaetp.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+         "ProxyIP":"qa-minhaclaro.claro.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
