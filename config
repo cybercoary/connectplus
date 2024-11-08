@@ -1,5 +1,5 @@
 {
-  "Version":"19",
+  "Version":"20",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
@@ -89,7 +89,7 @@
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM FRONT 03",
-         "Payload":"GET /SEU-ID HTTP/1.1[lf]Host: vus-api.cloudmi.datami.com[lf] [lf]GET /SEU-ID HTTP/1.1[lf]Host: [rotate=cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop;cdn25.cdntlcomputingbr.shop;cdn26.cdntlcomputingbr.shop;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+         "Payload":"GET / HTTP/1.1[lf]Host: vus-api.cloudmi.datami.com[lf] [lf]GET /app1705 HTTP/1.1[lf]Host: [rotate=cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop;cdn25.cdntlcomputingbr.shop;cdn26.cdntlcomputingbr.shop;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
          "ProxyIP":"108.158.194.97#108.158.194.95#108.158.194.111#108.158.194.21",
          "ProxyPort":"80",
          "SNI":"",
