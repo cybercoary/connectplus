@@ -1,5 +1,5 @@
 {
-  "Version": "7",
+  "Version": "8",
   "Update": "https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/theme",
   "AppName": "CYBERPLUS",
   "ImgFundo": "https://cybercoari.com.br/imagens/fundo.png",
@@ -8,8 +8,8 @@
   "ImgMenu": "https://cybercoari.com.br/imagens/menu.png",
   "ImgLogs": "https://cybercoari.com.br/imagens/registro.png",
   "ImgCheck": "https://cybercoari.com.br/imagens/info.png",
-  'ImgUser': "https://telegra.ph/file/51cfbf308fa6a293d6f7b.png",
-  'ImgPass': "https://telegra.ph/file/0aae4b5cc75034f04611d.png",
+  'ImgUser': "https://cybercoari.com.br/imagens/user.png",
+  'ImgPass': "https://https://cybercoari.com.br/imagens/senha.png",
   "ColorOne": "#7A333333",
   "ColorTwo": "#7A333333",
   "ColorStarter": "#0033FF",
