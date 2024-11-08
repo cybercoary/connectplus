@@ -1,5 +1,5 @@
 {
-  "Version":"20",
+  "Version":"21",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
@@ -47,8 +47,8 @@
          "FLAG":"https://cybercoari.com.br/imagens/tim.png",
          "Info":"Proxy",
          "Name":"TIM 02",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: timofertas.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"timofertas.com#apf.maisvantagenstim.com.br",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: timofertas.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: apps.cybercoari.com.br[crlf]Upgrade: Websocket[crlf][crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf][lf]Upgrade: Websocket[crlf][crlf]",
+         "ProxyIP":"vpn.cloudmi.datami.com#timofertas.com#apf.maisvantagenstim.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
