@@ -1,5 +1,5 @@
 {
-  "Version":"16",
+  "Version":"17",
   "Update":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoary/connectplus/refs/heads/main/sms_appupdate",
